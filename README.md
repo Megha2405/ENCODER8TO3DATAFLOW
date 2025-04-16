@@ -74,6 +74,7 @@ Date:16/04/2025
 ![output](<Screenshot 2025-04-16 091601-1.png>)
 
 **RESULTS**
+   
    Successfully implemented Encoder 8 To 3 in Dataflow Modelling using verilog and validated their functional tables
 
 
